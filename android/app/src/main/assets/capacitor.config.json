@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "RestApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

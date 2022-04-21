@@ -1,0 +1,7 @@
+{
+  "name": "RestApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
